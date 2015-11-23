@@ -1,1 +1,4 @@
-# chef-logio
+# logio
+
+TODO: Enter the cookbook description here.
+
